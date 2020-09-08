@@ -1,0 +1,7 @@
+5 Differences between Browser JS and Node Js
+
+i)	Browser JS is FE and Node JS is for BE
+ii)	Browser JS for interacting with DOM and browser objects such as window. Node JS has no objects as such.
+iii)	Node JS can be used to make Web Apps, Browser JS cannot be used for that.
+iv)	Node JS has rich set of libraries in NPM. Browser JS has no such
+v)	JS is a language itself while Node JS is a runtime of that based on the V8 engine.
