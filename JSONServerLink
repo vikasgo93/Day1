@@ -1,0 +1,10 @@
+https://vikasgo-cool-jsonserver.herokuapp.com/
+
+https://vikasgo-cool-jsonserver.herokuapp.com/posts/0
+
+O/P:
+{
+  "id": 0,
+  "title": "First post!",
+  "content": "My first content!"
+}
